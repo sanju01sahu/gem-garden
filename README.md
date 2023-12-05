@@ -1,4 +1,3 @@
-# effective-system
 
 # GEM GARDEN
 
